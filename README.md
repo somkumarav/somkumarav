@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Kerala</h3>
 
 <div align="left" margin-bottom="10px">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=8"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=6"/>
 </div>
 
 </br>
