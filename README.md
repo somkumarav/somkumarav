@@ -1,7 +1,7 @@
 <h1 align="center">I am Somkumar VA</h1>
 <h3 align="center">A Web Developer from Kerala</h3>
 
-<div align="center">
+<div align="left">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=7"/>
 </div>
 
