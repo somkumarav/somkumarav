@@ -9,5 +9,5 @@
 
 <div align="center">
 <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=somkumarav&count_private=true&include_all_commits=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somkumarav&layout=compact&theme=onedark&langs_count=15" />
+<img heigh="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somkumarav&layout=compact&theme=onedark&langs_count=15" />
 </div>
