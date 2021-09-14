@@ -5,6 +5,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=7"/>
 </div>
 
+</br>
 
 <div align="center">
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=somkumarav&count_private=true&include_all_commits=true&theme=onedark"/>
