@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Kerala</h3>
 
 <div align="center">
-<p align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=7"/></a></p>  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=somkumarav&theme=onedark&margin-w=15&margin-h=15&column=7"/>
 </div>
 
 
